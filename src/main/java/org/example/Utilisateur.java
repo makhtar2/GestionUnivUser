@@ -1,8 +1,6 @@
 package org.example;
 
 
-
-
 public class Utilisateur  {
     public enum Role {
         ETUDIANT,
